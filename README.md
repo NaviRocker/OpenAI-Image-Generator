@@ -4,8 +4,7 @@ This is a simple image generator built with Node.js and Express that uses [OpenA
 
 ## Usage
 
-Create a new file inside the project and name it `.env`.
-Add the following into it
+Create a new file inside the project and name it `.env` and the add the following into it
 ```bash
 PORT = 5000
 OPENAI_API_KEY = 'ADD_YOUR_KEY_HERE'
